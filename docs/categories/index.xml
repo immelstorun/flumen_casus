@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Your title</title>
-    <link>//localhost:1313/flumen_casus/categories/</link>
+    <link>//localhost:46785/flumen_casus/categories/</link>
     <description>Recent content in Categories on Your title</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="//localhost:1313/flumen_casus/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:46785/flumen_casus/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

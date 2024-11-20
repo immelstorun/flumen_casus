@@ -1,7 +1,7 @@
 +++
-title =  "Creating a New Theme"
+title =  "Creating a New Site"
 tags = ["hugo", "themes"]
-date = "2014-09-28"
+date = "2024-09-29"
 +++
 
 ## Introduction

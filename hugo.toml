@@ -49,12 +49,12 @@ publishDir = "docs"
   #   primaryColor = "#57cc8a"
 
   # Green theme
-  # [params.style]
-  #   darkestColor = "#315659"
-  #   darkColor = "#253031"
-  #   lightColor = "#96a879"
-  #   lightestColor = "#fff"
-  #   primaryColor = "#dad865"
+    [params.style]
+        darkestColor = "#315659"
+        darkColor = "#253031"
+        lightColor = "#96a879"
+        lightestColor = "#fff"
+        primaryColor = "#dad865"
 
   # Red theme
   # [params.style]
