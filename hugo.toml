@@ -1,6 +1,7 @@
-baseURL = "https://example.com"
+baseURL = "https://github.com/immelstorun/flumen_casus/"
 title = "Your title"
 theme = "m10c"
+publishDir = "docs"
 
 [pagination]
   pagerSize = 8
